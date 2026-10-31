@@ -1,1 +1,1 @@
-# neural-networks-architecturesc-ourse
+# neural-networks-architectures-course
